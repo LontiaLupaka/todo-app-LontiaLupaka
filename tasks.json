@@ -1,0 +1,10 @@
+[
+  {
+    "task": "STUDY",
+    "completed": true
+  },
+  {
+    "task": "WRITE CODE",
+    "completed": false
+  }
+]
